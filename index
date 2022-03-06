@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>photo portfolio by abhiram</title>
+<meta charset="UTF-8">
+  <meta name="description" content="Free Web tutorials">
+  <meta name="keywords" content="HTML, CSS, JavaScript">
+  <meta name="author" content="John Doe">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<style>
+body{
+    background-color: whitesmoke ;
+overflow-x: hidden;
+  font-family: Sans-Serif;
+  margin: 0;
+  height: 100%;
+}
+.and{  
+  width:100vw;
+    height: 100vh;
+    display: flex;
+    background-size: contain;
+    background-position: center;
+    background-size: 100% 100%;
+
+}
+</style>
+<div class="and"><img src="landing.jpg">
+ </div>
+</body>
+</html>
